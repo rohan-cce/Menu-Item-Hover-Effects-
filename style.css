@@ -21,5 +21,7 @@ ul{
     flex-direction: column;
 }
 ul li{
-    
+    position: relative;
+    list-style: none;
+    max-width: 5px;
 }
