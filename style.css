@@ -23,7 +23,7 @@ ul{
 ul li{
     position: relative;
     list-style: none;
-    max-width: 5px;
+    margin: 5px;
 }
 ul li a{
     position: relative;
