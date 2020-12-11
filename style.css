@@ -25,3 +25,12 @@ ul li{
     list-style: none;
     max-width: 5px;
 }
+ul li a{
+    position: relative;
+    height: 40px;
+    display: block;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
